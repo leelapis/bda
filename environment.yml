@@ -1,0 +1,25 @@
+name: bda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipython
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - umap-learn
+  - kneed
+  - hdbscan
+  - yellowbrick
+  - xgboost
+  - prophet
+  - pip
+  - pip:
+      - sweetviz
+      - streamlit

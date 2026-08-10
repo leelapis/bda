@@ -1,0 +1,24 @@
+# Requirements generated from a static scan of the BDA course notebooks (bda/*.ipynb).
+# Analyzed notebooks:
+#   1_Introduction_bda, 2_DataExplore_bda, 3_DataReduction_bda, 4_Clustering_I_bda,
+#   5_Clustering_II_bda, 6_Classification_I_bda, 7_Classification_II_bda,
+#   8_Regression_I_bda, 9_Regression_II_bda
+# Install:  python -m pip install -r requirements.txt   (or use environment.yml for conda)
+# Versions stay unpinned so pip/conda resolve to the latest compatible releases.
+
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+scikit-learn
+ipython
+statsmodels
+umap-learn
+kneed
+hdbscan
+yellowbrick
+xgboost
+prophet
+sweetviz
+streamlit
