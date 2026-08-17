@@ -148,8 +148,8 @@ Every consulting firm must submit a complete, unified advisory tender package:
      - Strategic limitations, operational risks, and implementation caveats.
 3. **Contest Prediction File (`groupname_submission.csv`):** Valid CSV formatted strictly according to Section 5.
 4. **Team Contribution Register (`CONTRIBUTIONS.md`):** Complete breakdown of individual partner responsibilities. ***This part can be copied into a dedicated markdown cell in the submitted `.ipynb` notebook***.
-5. Group memebers' individual experiment `.ipynb` files and the file name should follow this format: "Yourname_bda_expt.ipynb".
-6. The submission link is [https://calcures.com:9001/itrade](https://calcures.com:9001/itrade).
+5. Group memebers' individual experiment `.ipynb` files and the file name should follow this format: "Yourname_bda_expt.ipynb" (**This is the one you did on class**).
+6. The submission link is [https://calcures.com:9001/itrade](https://calcures.com:9001/itrade). The deadline is by **midnight on Aug. 18, 2026**.
 
 ---
 
